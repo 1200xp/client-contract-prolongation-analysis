@@ -28,5 +28,5 @@
 
 ## Файлы
 
-- `prolongation_analysis_final.ipynb` — код проекта
+- `prolongation_analysis.ipynb` — код проекта
 - `prolongation_report_2023.xlsx` — итоговый Excel-отчет
